@@ -1,6 +1,5 @@
 
-## INTERNSHIP TASK 1:  To Build a Static PortFolio
-## Task Description 
+
 # 🌟 Personal Portfolio Website – Static Version
 
 Welcome to my static portfolio website project! This repository showcases my personal, professional, and academic journey in a sleek, clean, and responsive format. Built using only HTML, CSS, and JavaScript, this portfolio is a reflection of both my frontend development skills and my dedication to presenting information clearly and professionally.
@@ -22,7 +21,7 @@ The landing section introduces who I am, what I do, and the core values I bring 
 ### 3. **Certificates Showcase**
 The portfolio includes a section where I have embedded key certificates that validate my skills and learning journey in fields like data science, machine learning, or software engineering. These PDFs can be viewed directly or downloaded by visitors.
 
-### 4. **Project Snapshots (Coming Soon)**
+### 4. **Project Snapshots (updated will come soon)
 I’ve included a dedicated section for project snapshots to visually demonstrate the practical applications of my skills. These will showcase the UI and functionality of major projects I’ve completed.
 
 ### 5. **Lightweight and Fast**
