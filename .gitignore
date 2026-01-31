@@ -1,0 +1,18 @@
+.env
+
+# Ignore environment files with secrets
+.env
+
+# Ignore node_modules (if using Node.js)
+node_modules/
+
+# Ignore build artifacts
+dist/
+build/
+
+# Ignore OS-specific files
+Thumbs.db
+*.DS_Store
+
+# Ignore logs
+*.log
